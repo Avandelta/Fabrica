@@ -7,7 +7,7 @@
         "whitelist": "",
         "blacklist": "minecraft:hell, minecraft:sky",
         "depth_min": 0,
-        "depth_max": 255,
+        "depth_max": 200,
         "weight": 6
       }
     ]

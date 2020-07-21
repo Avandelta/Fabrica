@@ -129,8 +129,8 @@ for.honey                                         (forestry:fluid.for.honey)    
 ice                                               (forestry:fluid.ice)                                                             = ??????? ???
 juice                                             (forestry:fluid.juice)                                                           = ????????? ???
 milk                                              (forestry:fluid.milk)                                                            = ??????
-seed.oil                                          (forestry:fluid.seed.oil)                                                        = ???????????? ?????
-short.mead                                        (forestry:fluid.short.mead)                                                      = ?????? ???
+seed.oil                                          ([no block])                                                                     = ???????????? ?????
+short.mead                                        ([no block])                                                                     = ?????? ???
 xu_evil_metal                                     ([no block])                                                                     = Evil Infused Iron
 xu_enchanted_metal                                ([no block])                                                                     = Enchanted Metal
 xu_demonic_metal                                  ([no block])                                                                     = Molten Demon Metal
