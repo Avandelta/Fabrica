@@ -25,3 +25,12 @@
 ## 1.0.3.1
 
 * Отредактирован DiscordRPC.cfg
+
+## 1.0.4
+
+* Смена модификации Discord Rich Presence на CraftPresence
+* Добавлена конфигурация CraftPresence
+
+## 1.0.4.1
+
+* Обновлена конфигурация CraftPresence
