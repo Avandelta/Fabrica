@@ -4,4 +4,4 @@ enableDebug();
 <zerocore:debugtool>.displayName = "Инструмент отладки";
 
 totalActions();
-print("[BASE][LOCALISATION] Ended with code: 0");
+print("[ZEROCORE][LOCALISATION] Ended with code: 0");

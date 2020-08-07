@@ -12,14 +12,14 @@ game.setLocalization("enchantment.silentgems.supercharged.desc", "Усилива
 
 ## Зачарование: Высасывание жизни (Life-Steal)
 game.setLocalization("enchantment.silentgems.life_steal", "Высасивание жизни");
-game.setLocaliztion("enchantment.silentgems.life_steal.desc", "Лечит владельца оружия");
+game.setLocalization("enchantment.silentgems.life_steal.desc", "Лечит владельца оружия");
 
 ## Зачарование: Концентрация (Concentration)
 game.setLocalization("enchantment.silentgems.magic_damage", "Концентрация");
 
 ## Зачарование: Обледенение (Ice Aspect)
 game.setLocalization("enchantment.silentgems.ice_aspect", "Обледенение");
-game.setLocaliztion("enchantment.silentgems.ice_aspect.desc", "Наносит временный очередной урон");
+game.setLocalization("enchantment.silentgems.ice_aspect.desc", "Наносит временный очередной урон");
 
 ## Зачарование: Гром (Lighting Aspect)
 game.setLocalization("enchantment.silentgems.lightning_aspect", "Гром");

@@ -5,10 +5,12 @@ enableDebug();
 ## Железное дерево (Ferrous-Juniper)
 <extrautils2:ironwood_leaves>.displayName = "Листва железного дерева";
 <extrautils2:ironwood_sapling>.displayName = "Саженец железного дерева";
+game.setLocalization("extrautils2.text.a.strange.and.weak.sapling", "Странный и слабый саженец");
 
 ## Сгоревшее железное дерево (Burnt Ferrous-Juniper)
 <extrautils2:ironwood_leaves:1>.displayName = "Листва сгоревшего железного дерева";
-<extrautils2:ironwood_sapling:1> = "Саженец мёртвого железного дерева";
+<extrautils2:ironwood_sapling:1>.displayName = "Саженец мёртвого железного дерева";
+game.setLocalization("extrautils2.text.its.dead", "Оно мертво");
 
 ## Пожарный топор (Fire Axe)
 <extrautils2:fireaxe>.displayName = "Пожарный топор";
@@ -53,7 +55,7 @@ game.setLocalization("splash_potion.effect.xu2.gravity", "Взрывное зе�
 game.setLocalization("effect.xu2.gravity.long", "Гравитация");
 game.setLocalization("tipped_arrow.effect.xu2.gravity.long", "Стрела гравитации");
 game.setLocalization("lingering_potion.effect.xu2.gravity.long", "Туманное зелье гравитации");
-game.setLocalization("potion.effect.xu2.gravity", "Зелье гравитации");
+game.setLocalization("potion.effect.xu2.gravity.long", "Зелье гравитации");
 game.setLocalization("splash_potion.effect.xu2.gravity.long", "Взрывное зелье гравитации");
 
 ## Эффект: Греческий огонь (Greek Fire)
