@@ -2,7 +2,7 @@
 
 ## Introduction
 
-**Fabrica** - is a modpack of technic genre for Minecraft 1.12.2. It's based on the process of transition from one stage of development to another, with the parallel discovery of new recipes, this mechanics is very similar to [SevTech](https://www.curseforge.com/minecraft/modpacks/sevtech-ages). But unlike the aforementioned, Fabrica takes the path of automating and improving the production of resources, such as: the player starts with Magneticraft and Factory Tech, and ends with Tech Reborn, Industrial Foregoing, ProjectE and other major technical mods.
+**Fabrica** - is a modpack of technic genre for Minecraft 1.12.2. It's based on the process of transition from one stage of development to another, with the parallel discovery of new recipes, this mechanics is very similar to [SevTech](https://www.curseforge.com/minecraft/modpacks/sevtech-ages). But unlike the aforementioned, Fabrica takes the path of automating and improving the production of resources.
 
 There are 184 mods in total, the list of main (core) modifications is indicated below:
 
