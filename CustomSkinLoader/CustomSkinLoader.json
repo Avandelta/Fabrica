@@ -6,7 +6,7 @@
       "type": "Legacy",
       "checkPNG": true,
       "skin": "Local/Skin/{USERNAME}.png",
-	  "cape": "Local/Cape/{USERNAME}.png",
+      "cape": "Local/Cape/{USERNAME}.png",
       "elytra": "Local/Elytra/{USERNAME}.png",
       "model": "auto"
     },
