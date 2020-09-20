@@ -1,26 +1,3 @@
-** **
-
-## Introduction
-
-**Fabrica** - is a modpack of technic genre for Minecraft 1.12.2. It's based on the process of transition from one stage of development to another, with the parallel discovery of new recipes, this mechanics is very similar to [SevTech](https://www.curseforge.com/minecraft/modpacks/sevtech-ages). But unlike the aforementioned, Fabrica takes the path of automating and improving the production of resources, such as: the player starts with Magneticraft and Factory Tech, and ends with Tech Reborn, Industrial Foregoing, ProjectE and other major technical mods.
-
-There are 184 mods in total, the list of main (core) modifications is indicated below:
-
-* [Magneticraft](https://www.curseforge.com/minecraft/mc-mods/magneticraft)
-* [PneumaticCraft: Repressurized](https://www.curseforge.com/minecraft/mc-mods/pneumaticcraft-repressurized)
-* [Actually Additions](https://www.curseforge.com/minecraft/mc-mods/actually-additions)
-* [Tech Reborn](https://www.curseforge.com/minecraft/mc-mods/techreborn)
-* [Factory Tech](https://www.curseforge.com/minecraft/mc-mods/factory-tech)
-* [Refined Storage](https://www.curseforge.com/minecraft/mc-mods/refined-storage)
-* [OpenComputers](https://www.curseforge.com/minecraft/mc-mods/opencomputers)
-
-If you want to see full mods list, please, check special file: [CREDITS.md](https://github.com/Avandelta/Fabrica/blob/master/CREDITS.md).
-
-## License
-
-This repository and modpack are licensed under [GNU General Public License v2.0](https://github.com/Avandelta/Fabrica/blob/master/LICENSE).
-
-```LICENSE
                     GNU GENERAL PUBLIC LICENSE
                        Version 2, June 1991
 
@@ -360,5 +337,3 @@ proprietary programs.  If your program is a subroutine library, you may
 consider it more useful to permit linking proprietary applications with the
 library.  If this is what you want to do, use the GNU Lesser General
 Public License instead of this License.
-```
-
