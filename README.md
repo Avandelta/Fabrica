@@ -14,7 +14,7 @@ There are 184 mods in total, the list of main (core) modifications is indicated 
 * [Refined Storage](https://www.curseforge.com/minecraft/mc-mods/refined-storage)
 * [OpenComputers](https://www.curseforge.com/minecraft/mc-mods/opencomputers)
 
-If you want to see full mods list, please, check special file: [CREDITS.md](https://github.com/Avandelta/Fabrica/blob/master/CREDITS.md).
+If you want to see full mods list, just  check folder with mods.
 
 ## License
 
