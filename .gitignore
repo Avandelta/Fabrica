@@ -28,6 +28,7 @@ crash-reports/
 craftpresence/
 .mixin.out/
 local/
+journeymap/
 
 # Runtime Data
 Custom Fusion Recipe Info.txt
