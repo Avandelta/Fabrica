@@ -20,14 +20,14 @@
 *.rar
 
 # Runtime Context
-config/acronym/saved
-config/brandon3055/ProjectIntelligence
-saves
-logs
-crash-reports
-craftpresence
-.mixin.out
-local
+config/acronym/saved/
+config/brandon3055/ProjectIntelligence/
+saves/
+logs/
+crash-reports/
+craftpresence/
+.mixin.out/
+local/
 
 # Runtime Data
 Custom Fusion Recipe Info.txt
