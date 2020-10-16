@@ -2,7 +2,7 @@
 
 A modpack of the technological direction for Minecraft version 1.12.2 (for). It aims at technological development, automation of production and resource extraction.
  
-Fabrica - modpack of the technological genre (direction) for Minecraft 1.12.2. This assembly sets as its initial goal technological progress, technical development and automation of production and resources. It begins the path of a player with the simplest mechanisms, developing to the stage of the "industrial revolution" and electrification to complete computerization: ending with the production of energy from "conventional air".
+**Fabrica** - modpack of the technological genre (direction) for Minecraft 1.12.2. This assembly sets as its initial goal technological progress, technical development and automation of production and resources. It begins the path of a player with the simplest mechanisms, developing to the stage of the "industrial revolution" and electrification to complete computerization: ending with the production of energy from "conventional air".
  
 As mentioned earlier, modifications develop the path of the gameplay (and control it): from the first semi-automatic mechanisms to full computerization, all of the specified modifications in the game assembly 184 (not including self-written modifications):
  
