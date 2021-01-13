@@ -6,7 +6,7 @@
 ![Forks](https://img.shields.io/github/forks/Avandelta/Fabrica?style=social) 
 ![Issues](https://img.shields.io/github/issues/Avandelta/Fabrica?logo=github&style=social)
 
-Fabrica is a pack filled to the brim of mods ranging from hand-held machines and watermills to computers and quantum transformations to even exploration. It's based on the same progress system as the famous [SevTech: Ages](https://www.curseforge.com/minecraft/modpacks/sevtech-ages).
+Fabrica is a pack filled to the brim of mods ranging in world of tech to even exploration. It's based on the same progress system as the famous [SevTech: Ages](https://www.curseforge.com/minecraft/modpacks/sevtech-ages).
 
 For more information on content distribution or copyright, see the dedicated file.
 
