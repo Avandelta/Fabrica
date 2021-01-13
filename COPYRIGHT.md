@@ -5,3 +5,5 @@ Contributors don't claim to be authorship of any content they aren't involved wi
 ## Distribution
 
 The content created by the developers is distributed under the same license as the original software, the rest is governed by the Forge licensing level or copyright terms.
+
+When using this modpack for your server or for other non-commercial purposes, please indicate the original authorship and a link to the developer.
