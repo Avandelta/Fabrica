@@ -6,6 +6,10 @@
 ![Forks](https://img.shields.io/github/forks/Avandelta/Fabrica?style=social) 
 ![Issues](https://img.shields.io/github/issues/Avandelta/Fabrica?logo=github&style=social)
 
+Fabrica – modpack of technic genre with ultimate advanced progression system.
+
+For more information about project, view the attribution file.
+
 ## Prerequisites
 
 Before you begin, ensure you have met the following requirements:
@@ -17,9 +21,9 @@ Before you begin, ensure you have met the following requirements:
 
 If you want to download the source, you can use GitHub CLI:
 
-`gh repo clone Falcion/Stagnum`
+`gh repo clone Avandelta/Fabrica`
 
-If you want to download the release: follow this [link](https://github.com/Avandelta/Fabrica/releases/latest/download/44b44a72058e2f52e42d575e3339427e.zip).
+If you want to download the release: follow this [tag](https://github.com/Avandelta/Fabrica/releases/latest/download/44b44a72058e2f52e42d575e3339427e.zip).
 
 ## Contributing to Fabrica
 

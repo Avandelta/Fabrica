@@ -1,7 +1,5 @@
 # Security Policy
 
-![Release](https://img.shields.io/github/v/tag/Avandelta/Fabrica?include_prereleases&label=release)
-
 Contributors don't claim to be authorship of any content they aren't involved with, if you would like your copyrighted content to be listed separately, please contact us through the organization.
 
 ## Contributing
@@ -22,7 +20,3 @@ To report a vulnerability, follow these steps:
 
 1. Contact with developers team.
 2. Report a vulnerability.
-
-## Vulnerability Policy
-
-Dissemination of information about vulnerabilities, including this site or forum, is considered a violation of the organization's user agreement, as a result of which, informing other users, publishing this information for the public to see, and similar actions are prohibited in the interests of security.
