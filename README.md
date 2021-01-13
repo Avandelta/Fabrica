@@ -6,22 +6,22 @@
 ![Forks](https://img.shields.io/github/forks/Avandelta/Fabrica?style=social) 
 ![Issues](https://img.shields.io/github/issues/Avandelta/Fabrica?logo=github&style=social)
 
-Fabrica – modpack of technic genre with ultimate advanced progression system.
+Fabrica is a pack filled to the brim of mods ranging from hand-held machines and watermills to computers and quantum transformations to even exploration. It's based on the same progress system as the famous [SevTech: Ages](https://www.curseforge.com/minecraft/modpacks/sevtech-ages).
 
-For more information about project, view the attribution file.
+For more information on content distribution or copyright, see the dedicated file.
 
 ## Prerequisites
 
 Before you begin, ensure you have met the following requirements:
 
-* You have installed the 1.12.2-forge-14.23.5.2855.
-* You have installed the Minecraft 1.12.2.
+- You have installed the 1.12.2-forge-14.23.5.2855
+- You have installed the Minecraft 1.12.2
 
 ## Installing Fabrica
 
 If you want to download the source, you can use GitHub CLI:
 
-`gh repo clone Avandelta/Fabrica`
+`gh repo clone Avandelta/Fabrica.`
 
 If you want to download the release: follow this [tag](https://github.com/Avandelta/Fabrica/releases/latest/download/44b44a72058e2f52e42d575e3339427e.zip).
 

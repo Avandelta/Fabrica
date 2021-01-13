@@ -1,9 +1,9 @@
 # Copyright
 
-Contributors don't claim to be authorship of any content they aren't involved with, if you would like your copyrighted content to be listed separately, please contact us through the organization.
+Contributors don't claim to be authorship of any content they aren't involved with. If you would like your copyrighted content to be mentioned separately, please, contact us.
 
 ## Distribution
 
-The content created by the developers is distributed under the same license as the original software, the rest is governed by the Forge licensing level or copyright terms.
+The software of the organization created by the developers is distributed under the same License. Other types of software fall under the same type of license as Forge Licensing.
 
-When using this modpack for your server or for other non-commercial purposes, please indicate the original authorship and a link to the developer.
+When using this project for non-commercial purposes, please include the original author.
