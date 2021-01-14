@@ -21,7 +21,7 @@ Before you begin, ensure you have met the following requirements:
 
 If you want to download the source, you can use GitHub CLI:
 
-`gh repo clone Avandelta/Fabrica.`
+`gh repo clone Avandelta/Fabrica`
 
 If you want to download the release: follow this [tag](https://github.com/Avandelta/Fabrica/releases/latest/download/44b44a72058e2f52e42d575e3339427e.zip).
 
