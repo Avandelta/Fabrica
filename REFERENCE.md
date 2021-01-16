@@ -1,3 +1,11 @@
+# Reference Policy
+
+Contributors don't claim to be authorship of any content they aren't involved with, if you would like your copyrighted content to be listed separately, please contact us through the organization.
+
+### Modifications
+
+Links to the websites below may be unavailable or archived: in this case, please inform contributors about this situation.
+
 - [Actually Additions](https://www.curseforge.com/minecraft/mc-mods/actually-additions)
 - [Actually Computers](https://www.curseforge.com/minecraft/mc-mods/actuallycomputers)
 - [Actually Recycling](https://www.curseforge.com/minecraft/mc-mods/actually-recycling)
@@ -162,3 +170,9 @@
 - [WorldEditCUI Forge Edition 3](https://www.curseforge.com/minecraft/mc-mods/worldeditcui-forge-edition-3)
 - [XNet](https://www.curseforge.com/minecraft/mc-mods/xnet)
 - [ZeroCore 2](https://www.curseforge.com/minecraft/mc-mods/zerocore)
+
+### Resource Packs
+
+Links to the websites below may be unavailable or archived: in this case, please inform contributors about this situation.
+
+- [Minecraft Font (PC)](https://www.curseforge.com/minecraft/texture-packs/minecraft-font-pc)
