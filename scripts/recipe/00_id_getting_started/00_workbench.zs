@@ -202,3 +202,166 @@ recipes.addShaped('vanilla/furnace', <minecraft:furnace>,
 [[cobblestone, cobblestone, cobblestone],
  [cobblestone, null, cobblestone],
  [cobblestone, cobblestoneSlab, cobblestone]]);
+
+# Enchanting Table (Vanilla)
+val obsidianBlock = <minecraft:obsidian>;
+val oreDiamond = <ore:gemDiamond>;
+val writableBook = <minecraft:writable_book>;
+
+recipes.remove(<minecraft:enchanting_table>);
+
+recipes.addShaped('vanilla/enchanting_table', <minecraft:enchanting_table>,
+[[oreDiamond, null, oreDiamond],
+ [oreDiamond, writableBook, oreDiamond],
+ [obsidianBlock, obsidianBlock, obsidianBlock]]);
+
+# Ender Chest (Vanilla)
+val oreBlazePowder = <ore:dustBlaze>;
+val oreEyeEnder = <ore:pearlEnderEye>;
+
+recipes.remove(<minecraft:ender_chest>);
+
+recipes.addShaped('vanilla/ender_chest', <minecraft:ender_chest>,
+[[obsidianBlock, obsidianBlock, obsidianBlock],
+ [oreBlazePowder, oreEyeEnder, oreBlazePowder],
+ [obsidianBlock, obsidianBlock, obsidianBlock]])
+
+# Shulker Box (Vanilla)
+val oreShulkerBox = <ore:shulkerBox>;
+
+val oreWhiteDye = <<ore:dyeWhite>;
+val oreOrangeDye = <ore:dyeOrange>;
+val oreMagentaDye = <ore:dyeMagenta>;
+val oreLightBlueDye = <ore:dyeLightBlue>;
+val oreYellowDye = <ore:dyeYellow>;
+val oreLimeDye = <ore:dyeLime>;
+val orePinkDye = <ore:dyePink>;
+val oreGrayDye = <ore:dyeGray>;
+val oreLightGrayDye = <ore:dyeLightGray>;
+val oreCyanDye = <ore:dyeCyan>;
+val orePurpleDye = <ore:dyePurple>;
+val oreBlueDye = <ore:dyeBlue>;
+val oreBrownDye = <ore:dyeBrown>;
+val oreGreenDye = <ore:dyeGreen>;
+val oreRedDye = <ore:dyeRed>;
+val oreBlackDye = <ore:dyeBlack>;
+
+recipes.removeByRecipeName('quark:purple_shulker_box');
+
+recipes.addShapeless('vanilla/white_shulker_box', <minecraft:white_shulker_box>, [oreShulkerBox, oreWhiteDye]);
+recipes.addShapeless('vanilla/orange_shulker_box', <minecraft:orange_shulker_box>, [oreShulkerBox, oreOrangeDye]);
+recipes.addShapeless('vanilla/magenta_shulker_box', <minecraft:magenta_shulker_box>, [oreShulkerBox, oreMagentaDye]);
+recipes.addShapeless('vanilla/light_blue_shulker_box', <minecraft:light_blue_shulker_box>, [oreShulkerBox, oreLightBlueDye]);
+recipes.addShapeless('vanilla/yellow_shulker_box', <minecraft:yellow_shulker_box>, [oreShulkerBox, oreYellowDye]);
+recipes.addShapeless('vanilla/lime_shulker_box', <minecraft:lime_shulker_box>, [oreShulkerBox, oreLimeDye]);
+recipes.addShapeless('vanilla/pink_shulker_box', <minecraft:pink_shulker_box>, [oreShulkerBox, orePinkDye]);
+recipes.addShapeless('vanilla/gray_shulker_box', <minecraft:gray_shulker_box>, [oreShulkerBox, oreGrayDye]);
+recipes.addShapeless('vanilla/light_gray_shulker_box', <minecraft:light_gray_shulker_box>, [oreShulkerBox, oreLightGrayDye]);
+recipes.addShapeless('vanilla/cyan_shulker_box', <minecraft:cyan_shulker_box>, [oreShulkerBox, oreCyanDye]);
+recipes.addShapeless('vanilla/purple_shulker_box', <minecraft:purple_shulker_box>, [oreShulkerBox, orePurpleDye]);
+recipes.addShapeless('vanilla/blue_shulker_box', <minecraft:blue_shulker_box>, [oreShulkerBox, oreBlueDye]);
+recipes.addShapeless('vanilla/brown_shulker_box', <minecraft:brown_shulker_box>, [oreShulkerBox, oreBrownDye]);
+recipes.addShapeless('vanilla/green_shulker_box', <minecraft:green_shulker_box>, [oreShulkerBox, oreGreenDye]);
+recipes.addShapeless('vanilla/red_shulker_box', <minecraft:red_shulker_box>, [oreShulkerBox, oreRedDye]);
+recipes.addShapeless('vanilla/black_shulker_box', <minecraft:black_shulker_box>, [oreShulkerBox, oreBlackDye]);
+
+# Glazed Terracotta (Vanilla)
+val toolPolisher = <sgextraparts:polisher>;
+
+val whiteHardenedClay = <minecraft:stained_hardened_clay>;
+val orangeHardenedClay = <minecraft:stained_hardened_clay:1>;
+val magentaHardenedClay = <minecraft:stained_hardened_clay:2>;
+val lightBlueHardenedClay = <minecraft:stained_hardened_clay:3>;
+val yellowHardenedClay = <minecraft:stained_hardened_clay:4>;
+val limeHardenedClay = <minecraft:stained_hardened_clay:5>;
+val pinkHardenedClay = <minecraft:stained_hardened_clay:6>;
+val grayHardenedClay = <minecraft:stained_hardened_clay:7>;
+val lightGrayHardenedClay = <minecraft:stained_hardened_clay:8>;
+val cyanHardenedClay = <minecraft:stained_hardened_clay:9>;
+val purpleHardenedClay = <minecraft:stained_hardened_clay:10>;
+val blueHardenedClay = <minecraft:stained_hardened_clay:11>;
+val brownHardenedClay = <minecraft:stained_hardened_clay:12>;
+val greenHardenedClay = <minecraft:stained_hardened_clay:13>;
+val redHardenedClay = <minecraft:stained_hardened_clay:14>;
+val blackHardenedClay = <minecraft:stained_hardened_clay:15>;
+
+recipes.addShaped('vanilla/white_glazed_terracotta', <minecraft:white_glazed_terracotta> * 8,
+[[whiteHardenedClay, whiteHardenedClay, whiteHardenedClay],
+ [whiteHardenedClay, toolPolisher, whiteHardenedClay],
+ [whiteHardenedClay, whiteHardenedClay, whiteHardenedClay]]);
+
+recipes.addShaped('vanilla/orange_glazed_terracotta', <minecraft:orange_glazed_terracotta> * 8,
+[[orangeHardenedClay, orangeHardenedClay, orangeHardenedClay],
+ [orangeHardenedClay, toolPolisher, orangeHardenedClay],
+ [orangeHardenedClay, orangeHardenedClay, orangeHardenedClay]]);
+
+recipes.addShaped('vanilla/magenta_glazed_terracotta', <minecraft:magenta_glazed_terracotta> * 8,
+[[magentaHardenedClay, magentaHardenedClay, magentaHardenedClay],
+ [magentaHardenedClay, toolPolisher, magentaHardenedClay],
+ [magentaHardenedClay, magentaHardenedClay, magentaHardenedClay]]);
+
+recipes.addShaped('vanilla/light_blue_glazed_terracotta', <minecraft:light_blue_glazed_terracotta> * 8,
+[[lightBlueHardenedClay, lightBlueHardenedClay, lightBlueHardenedClay],
+ [lightBlueHardenedClay, toolPolisher, lightBlueHardenedClay],
+ [lightBlueHardenedClay, lightBlueHardenedClay, lightBlueHardenedClay]]);
+
+recipes.addShaped('vanilla/yellow_glazed_terracotta', <minecraft:yellow_glazed_terracotta> * 8,
+[[yellowHardenedClay, yellowHardenedClay, yellowHardenedClay],
+ [yellowHardenedClay, toolPolisher, yellowHardenedClay],
+ [yellowHardenedClay, yellowHardenedClay, yellowHardenedClay]]);
+
+recipes.addShaped('vanilla/lime_glazed_terracotta', <minecraft:lime_glazed_terracotta> * 8,
+[[limeHardenedClay, limeHardenedClay, limeHardenedClay],
+ [limeHardenedClay, toolPolisher, limeHardenedClay],
+ [limeHardenedClay, limeHardenedClay, limeHardenedClay]]);
+
+recipes.addShaped('vanilla/pink_glazed_terracotta', <minecraft:pink_glazed_terracotta> * 8,
+[[pinkHardenedClay, pinkHardenedClay, pinkHardenedClay],
+ [pinkHardenedClay, toolPolisher, pinkHardenedClay],
+ [pinkHardenedClay, pinkHardenedClay, pinkHardenedClay]]);
+
+recipes.addShaped('vanilla/gray_glazed_terracotta', <minecraft:gray_glazed_terracotta> * 8,
+[[grayHardenedClay, grayHardenedClay, grayHardenedClay],
+ [grayHardenedClay, toolPolisher, grayHardenedClay],
+ [grayHardenedClay, grayHardenedClay, grayHardenedClay]]);
+
+recipes.addShaped('vanilla/silver_glazed_terracotta', <minecraft:silver_glazed_terracotta> * 8,
+[[lightGrayHardenedClay, lightGrayHardenedClay, lightGrayHardenedClay],
+ [lightGrayHardenedClay, toolPolisher, lightGrayHardenedClay],
+ [lightGrayHardenedClay, lightGrayHardenedClay, lightGrayHardenedClay]]);
+
+recipes.addShaped('vanilla/cyan_glazed_terracotta', <minecraft:cyan_glazed_terracotta> * 8,
+[[cyanHardenedClay, cyanHardenedClay, cyanHardenedClay],
+ [cyanHardenedClay, toolPolisher, cyanHardenedClay],
+ [cyanHardenedClay, cyanHardenedClay, cyanHardenedClay]]);
+
+recipes.addShaped('vanilla/purple_glazed_terracotta', <minecraft:purple_glazed_terracotta> * 8,
+[[purpleHardenedClay, purpleHardenedClay, purpleHardenedClay],
+ [purpleHardenedClay, toolPolisher, purpleHardenedClay],
+ [purpleHardenedClay, purpleHardenedClay, purpleHardenedClay]]);
+
+recipes.addShaped('vanilla/blue_glazed_terracotta', <minecraft:blue_glazed_terracotta> * 8,
+[[blueHardenedClay, blueHardenedClay, blueHardenedClay],
+ [blueHardenedClay, toolPolisher, blueHardenedClay],
+ [blueHardenedClay, blueHardenedClay, blueHardenedClay]]);
+
+recipes.addShaped('vanilla/brown_glazed_terracotta', <minecraft:brown_glazed_terracotta> * 8,
+[[brownHardenedClay, brownHardenedClay, brownHardenedClay],
+ [brownHardenedClay, toolPolisher, brownHardenedClay],
+ [brownHardenedClay, brownHardenedClay, brownHardenedClay]]);
+
+recipes.addShaped('vanilla/green_glazed_terracotta', <minecraft:green_glazed_terracotta> * 8,
+[[greenHardenedClay, greenHardenedClay, greenHardenedClay],
+ [greenHardenedClay, toolPolisher, greenHardenedClay],
+ [greenHardenedClay, greenHardenedClay, greenHardenedClay]]);
+
+recipes.addShaped('vanilla/red_glazed_terracotta', <minecraft:red_glazed_terracotta> * 8,
+[[redHardenedClay, redHardenedClay, redHardenedClay],
+ [redHardenedClay, toolPolisher, redHardenedClay],
+ [redHardenedClay, redHardenedClay, redHardenedClay]]);
+
+recipes.addShaped('vanilla/black_glazed_terracotta', <minecraft:black_glazed_terracotta> * 8,
+[[blackHardenedClay, blackHardenedClay, blackHardenedClay],
+ [blackHardenedClay, toolPolisher, blackHardenedClay],
+ [blackHardenedClay, blackHardenedClay, blackHardenedClay]]);
+ 
