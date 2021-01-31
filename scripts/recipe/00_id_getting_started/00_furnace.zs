@@ -1,4 +1,4 @@
-print("Initializing the edit of 'Getting Started' furnace recipes!");
+print('Initializing the edit of [Getting Started] furnace recipes!');
 
 # Vanilla (default Minecraft)
 furnace.remove(<ore:blockGlass>);
@@ -93,6 +93,7 @@ furnace.remove(<industrialforegoing:plastic>);
 
 # Tinker's Construct (TConstruct)
 furnace.remove(<ore:ingotArdite>);
+furnace.remove(<ore:ingotBrickSeared>);
 
 # Factory Tech
 furnace.remove(<ore:ingotCupronickel>);
@@ -108,7 +109,7 @@ furnace.remove(<gendustry:gene_template>);
 furnace.remove(<ore:nuggetIron>, <ore:orePoorIron>);
 furnace.remove(<ore:nuggetGold>, <ore:orePoorGold>);
 furnace.remove(<ore:nuggetCopper>, <ore:orePoorCopper>);
-furnace.remove(<ore:nuggetTin, <ore:orePoorTin>);
+furnace.remove(<ore:nuggetTin>, <ore:orePoorTin>);
 furnace.remove(<ore:nuggetLead>, <ore:orePoorLead>);
 furnace.remove(<ore:nuggetSilver>, <ore:orePoorSilver>);
 furnace.remove(<ore:nuggetNickel>, <ore:orePoorNickel>);
