@@ -1,0 +1,45 @@
+{
+	title: "Обработка фарфора",
+	icon: "tcomplement:porcelain_tank",
+	x: -0.5d,
+	y: -1.5d,
+	dependencies: [
+		"dd0b2473",
+		"20ecec80"
+	],
+	tasks: [{
+		uid: "259b506d",
+		type: "item",
+		items: [{
+			item: "tcomplement:porcelain_tank"
+		}]
+	},
+	{
+		uid: "5816f301",
+		type: "item",
+		items: [{
+			item: "ceramics:faucet"
+		}]
+	},
+	{
+		uid: "aec2cdad",
+		type: "item",
+		items: [{
+			item: "tcomplement:porcelain_melter"
+		}]
+	},
+	{
+		uid: "1344f727",
+		type: "item",
+		items: [{
+			item: "tcomplement:porcelain_casting"
+		}]
+	},
+	{
+		uid: "682b2007",
+		type: "item",
+		items: [{
+			item: "tcomplement:porcelain_casting 1 1"
+		}]
+	}]
+}

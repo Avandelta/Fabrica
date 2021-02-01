@@ -1,0 +1,16 @@
+{
+	title: "Печь",
+	icon: "minecraft:furnace",
+	x: 5.5d,
+	y: -1.5d,
+	dependencies: [
+		"cf83ba05"
+	],
+	tasks: [{
+		uid: "3acd7d9b",
+		type: "item",
+		items: [{
+			item: "minecraft:furnace"
+		}]
+	}]
+}

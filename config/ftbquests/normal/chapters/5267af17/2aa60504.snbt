@@ -1,0 +1,25 @@
+{
+	title: "Насущное",
+	icon: "minecraft:wheat",
+	x: 5.5d,
+	y: -7.5d,
+	dependencies: [
+		"d1ab6a3d"
+	],
+	tasks: [{
+		uid: "d5837c6b",
+		type: "item",
+		items: [{
+			item: "minecraft:wheat"
+		}],
+		count: 6L
+	},
+	{
+		uid: "0f4dc7d8",
+		type: "item",
+		items: [{
+			item: "minecraft:wheat_seeds"
+		}],
+		count: 2L
+	}]
+}

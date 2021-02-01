@@ -1,0 +1,15 @@
+{
+	title: "Керамика из глины",
+	x: 1.5d,
+	y: 0.5d,
+	dependencies: [
+		"20ec2f5b"
+	],
+	tasks: [{
+		uid: "e07aa4ab",
+		type: "item",
+		items: [{
+			item: "ceramics:clay_barrel"
+		}]
+	}]
+}

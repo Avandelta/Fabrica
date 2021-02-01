@@ -1,0 +1,10 @@
+{
+	x: -0.5d,
+	y: -7.5d,
+	tasks: [{
+		uid: "0345f4c5",
+		type: "checkmark",
+		title: "Вступление",
+		icon: "minecraft:grass"
+	}]
+}
