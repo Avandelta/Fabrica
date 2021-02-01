@@ -224,12 +224,12 @@ recipes.remove(<minecraft:ender_chest>);
 recipes.addShaped('vanilla/ender_chest', <minecraft:ender_chest>,
 [[obsidianBlock, obsidianBlock, obsidianBlock],
  [oreBlazePowder, oreEyeEnder, oreBlazePowder],
- [obsidianBlock, obsidianBlock, obsidianBlock]])
+ [obsidianBlock, obsidianBlock, obsidianBlock]]);
 
 # Shulker Box (Vanilla)
 val oreShulkerBox = <ore:shulkerBox>;
 
-val oreWhiteDye = <<ore:dyeWhite>;
+val oreWhiteDye = <ore:dyeWhite>;
 val oreOrangeDye = <ore:dyeOrange>;
 val oreMagentaDye = <ore:dyeMagenta>;
 val oreLightBlueDye = <ore:dyeLightBlue>;
