@@ -1,0 +1,38 @@
+{
+	title: "Сундуки",
+	icon: "minecraft:chest",
+	x: -2.5d,
+	y: 0.5d,
+	description: "Базовая система хранилища",
+	text: [
+		"Сундуки могут хранить в себе ограниченное количество предметов и могут улучшаться при помощи специальных модификаторов или полноценной замены, является классическим и практичным вариантом для хранения вещей."
+	],
+	dependencies: [
+		"976fdbd1"
+	],
+	tasks: [{
+		uid: "9dbd84a4",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "chestWood",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any chestWood"
+				}
+			}
+		}],
+		count: 2L
+	}],
+	rewards: [{
+		uid: "15fe01df",
+		type: "random",
+		title: "Случайная награда #0",
+		table: 0
+	}]
+}

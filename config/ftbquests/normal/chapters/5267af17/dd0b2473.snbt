@@ -12,5 +12,10 @@
 			item: "ceramics:unfired_clay 1 4"
 		}],
 		count: 42L
+	}],
+	rewards: [{
+		uid: "356b1f15",
+		type: "ftbmoney:money",
+		ftb_money: 100L
 	}]
 }

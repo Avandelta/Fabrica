@@ -13,5 +13,10 @@
 			item: "minecraft:cobblestone"
 		}],
 		count: 32L
+	}],
+	rewards: [{
+		uid: "c7d18777",
+		type: "ftbmoney:money",
+		ftb_money: 25L
 	}]
 }

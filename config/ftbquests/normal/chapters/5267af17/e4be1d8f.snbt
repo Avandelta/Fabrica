@@ -44,5 +44,11 @@
 			}
 		}],
 		count: 2L
+	}],
+	rewards: [{
+		uid: "be74a552",
+		type: "item",
+		item: "minecraft:bone",
+		count: 3
 	}]
 }

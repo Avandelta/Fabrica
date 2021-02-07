@@ -1,0 +1,128 @@
+{
+	title: "Случайная награда #0",
+	loot_size: 1,
+	rewards: [{
+		item: "minecraft:stone",
+		count: 32,
+		weight: 3
+	},
+	{
+		item: "minecraft:cobblestone",
+		count: 64,
+		weight: 4
+	},
+	{
+		item: "minecraft:planks",
+		count: 64,
+		weight: 4
+	},
+	{
+		item: "minecraft:log",
+		count: 8,
+		weight: 4
+	},
+	{
+		item: "minecraft:diamond_block"
+	},
+	{
+		item: "minecraft:iron_block",
+		weight: 2
+	},
+	{
+		item: "minecraft:sponge"
+	},
+	{
+		item: "minecraft:gold_block",
+		weight: 2
+	},
+	{
+		item: "minecraft:tnt",
+		count: 4,
+		weight: 3
+	},
+	{
+		item: "minecraft:bookshelf",
+		count: 4,
+		weight: 3
+	},
+	{
+		item: "minecraft:obsidian",
+		count: 4,
+		weight: 2
+	},
+	{
+		item: "minecraft:diamond",
+		count: 2,
+		weight: 2
+	},
+	{
+		item: "minecraft:melon_block",
+		count: 4,
+		weight: 3
+	},
+	{
+		item: "minecraft:leather",
+		count: 8,
+		weight: 3
+	},
+	{
+		item: "minecraft:book",
+		count: 4,
+		weight: 3
+	},
+	{
+		item: "minecraft:golden_apple",
+		count: 2,
+		weight: 3
+	},
+	{
+		item: "minecraft:golden_apple 1 1"
+	},
+	{
+		ftb_money: 125L,
+		type: "ftbmoney:money",
+		weight: 4
+	},
+	{
+		ftb_money: 250L,
+		type: "ftbmoney:money",
+		weight: 3
+	},
+	{
+		ftb_money: 500L,
+		type: "ftbmoney:money",
+		weight: 2
+	},
+	{
+		item: "minecraft:emerald",
+		count: 8,
+		weight: 2
+	},
+	{
+		item: "minecraft:enchanting_table"
+	},
+	{
+		item: "minecraft:carrot",
+		count: 12,
+		weight: 3
+	},
+	{
+		item: "minecraft:potato",
+		count: 12,
+		weight: 3
+	},
+	{
+		item: "minecraft:cooked_beef",
+		count: 4,
+		weight: 4
+	}],
+	loot_crate: {
+		string_id: "_0",
+		color: 16777215,
+		drops: {
+			boss: 0,
+			passive: 0,
+			monster: 0
+		}
+	}
+}

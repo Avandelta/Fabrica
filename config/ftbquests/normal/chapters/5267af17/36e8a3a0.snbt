@@ -1,0 +1,24 @@
+{
+	title: "Создание сплавов",
+	icon: "railcraft:ingot 1 7",
+	x: -0.5d,
+	y: 2.5d,
+	description: "Инновация в металлургии",
+	text: [
+		"Создание сплавов позволяет перейти на более высокий уровень технологического развития."
+	],
+	dependencies: [
+		"bff5ddb9",
+		"976fdbd1"
+	],
+	tasks: [{
+		uid: "bd3f13cd",
+		type: "checkmark"
+	}],
+	rewards: [{
+		uid: "8fa7ef47",
+		type: "command",
+		title: "Стадия \"Механизация\"",
+		command: "/gamestage silentadd @a mechanization"
+	}]
+}

@@ -1,0 +1,17 @@
+{
+	title: "Кварцевый резчик",
+	x: 7.0d,
+	y: -5.5d,
+	description: "Создание кварцевых матриц",
+	dependencies: [
+		"237f228f",
+		"aa1d2d1b"
+	],
+	tasks: [{
+		uid: "4d387f81",
+		type: "item",
+		items: [{
+			item: "factorytech:circuitscribe"
+		}]
+	}]
+}

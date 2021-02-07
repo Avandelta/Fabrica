@@ -1,0 +1,15 @@
+{
+	title: "Электропечь",
+	x: 7.0d,
+	y: -7.5d,
+	dependencies: [
+		"c265fd8b"
+	],
+	tasks: [{
+		uid: "be2f8091",
+		type: "item",
+		items: [{
+			item: "factorytech:htfurnace"
+		}]
+	}]
+}

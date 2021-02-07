@@ -1,0 +1,21 @@
+{
+	title: "Улучшенный сундук III",
+	x: -4.5d,
+	y: 6.5d,
+	dependencies: [
+		"41c131f0"
+	],
+	tasks: [{
+		uid: "45f88894",
+		type: "item",
+		items: [{
+			item: "ironchest:iron_chest 1 2"
+		}]
+	}],
+	rewards: [{
+		uid: "073660f8",
+		type: "random",
+		title: "Случайная награда #1",
+		table: 1
+	}]
+}

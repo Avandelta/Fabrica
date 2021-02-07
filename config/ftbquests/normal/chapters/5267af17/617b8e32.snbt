@@ -23,5 +23,11 @@
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "96f9542a",
+		type: "random",
+		title: "Случайная награда #0",
+		table: 0
 	}]
 }

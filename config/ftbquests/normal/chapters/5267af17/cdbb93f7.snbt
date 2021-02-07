@@ -13,5 +13,10 @@
 			item: "minecraft:clay_ball"
 		}],
 		count: 16L
+	}],
+	rewards: [{
+		uid: "f377beb3",
+		type: "xp",
+		xp: 75
 	}]
 }

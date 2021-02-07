@@ -3,6 +3,10 @@
 	icon: "tcomplement:porcelain_tank",
 	x: -0.5d,
 	y: -1.5d,
+	description: "Создание фарфоровой плавильни",
+	text: [
+		"Фарфоровая плавильня работает на меньших температурах чем плавильня из сушённого кирпича, что не позволяет ей плавить некоторые металлы и создавать сплавы."
+	],
 	dependencies: [
 		"dd0b2473",
 		"20ecec80"
@@ -41,5 +45,11 @@
 		items: [{
 			item: "tcomplement:porcelain_casting 1 1"
 		}]
+	}],
+	rewards: [{
+		uid: "a713d119",
+		type: "random",
+		title: "Случайная награда #1",
+		table: 1
 	}]
 }

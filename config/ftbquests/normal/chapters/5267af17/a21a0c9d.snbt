@@ -6,5 +6,11 @@
 		type: "checkmark",
 		title: "Вступление",
 		icon: "minecraft:grass"
+	}],
+	rewards: [{
+		uid: "3010f67f",
+		type: "command",
+		title: "Стадия \"Начало\"",
+		command: "gamestage silentadd @a getting_started"
 	}]
 }

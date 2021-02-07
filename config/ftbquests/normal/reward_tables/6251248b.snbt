@@ -1,0 +1,159 @@
+{
+	title: "Случайная награда #1",
+	loot_size: 1,
+	rewards: [{
+		item: "tconstruct:slimesling",
+		weight: 2
+	},
+	{
+		item: "tconstruct:slime_boots",
+		weight: 2
+	},
+	{
+		item: "ceramics:unfired_clay 1 4",
+		count: 16,
+		weight: 3
+	},
+	{
+		item: "ceramics:clay_barrel_unfired",
+		weight: 3
+	},
+	{
+		item: "minecraft:slime_ball",
+		count: 4,
+		weight: 4
+	},
+	{
+		item: "tconstruct:materials 1 18",
+		weight: 2
+	},
+	{
+		item: "quark:cooked_crab_leg",
+		count: 8,
+		weight: 4
+	},
+	{
+		item: "quark:thatch",
+		count: 32,
+		weight: 4
+	},
+	{
+		item: "spiceoflife:lunchbag",
+		weight: 4
+	},
+	{
+		item: "ceramics:clay_barrel",
+		weight: 3
+	},
+	{
+		item: {
+			id: "ironbackpacks:backpack",
+			tag: {
+				packInfo: {
+					upgrade: [],
+					type: "ironbackpacks:diamond",
+					spec: "STORAGE"
+				}
+			}
+		}
+	},
+	{
+		item: {
+			id: "ironbackpacks:backpack",
+			tag: {
+				packInfo: {
+					upgrade: [],
+					type: "ironbackpacks:gold",
+					spec: "STORAGE"
+				}
+			}
+		}
+	},
+	{
+		item: {
+			id: "ironbackpacks:backpack",
+			tag: {
+				packInfo: {
+					upgrade: [],
+					type: "ironbackpacks:iron",
+					spec: "STORAGE"
+				}
+			}
+		},
+		weight: 2
+	},
+	{
+		item: {
+			id: "ironbackpacks:backpack",
+			tag: {
+				packInfo: {
+					upgrade: [],
+					type: "ironbackpacks:basic",
+					spec: "NONE"
+				}
+			}
+		},
+		weight: 3
+	},
+	{
+		item: "silentgear:crafting_station",
+		weight: 3
+	},
+	{
+		item: {
+			id: "storagedrawers:basicdrawers",
+			tag: {
+				material: "oak"
+			}
+		},
+		count: 4,
+		weight: 4
+	},
+	{
+		item: "storagedrawers:upgrade_template",
+		weight: 4
+	},
+	{
+		item: "storagedrawers:compdrawers",
+		weight: 2
+	},
+	{
+		item: "storagedrawers:controller",
+		weight: 2
+	},
+	{
+		item: "storagedrawers:controllerslave",
+		count: 2,
+		weight: 3
+	},
+	{
+		item: "chisel:chisel_iron",
+		weight: 3
+	},
+	{
+		item: "biomesoplenty:record_wanderer"
+	},
+	{
+		ftb_money: 250L,
+		type: "ftbmoney:money",
+		weight: 3
+	},
+	{
+		ftb_money: 500L,
+		type: "ftbmoney:money",
+		weight: 2
+	},
+	{
+		ftb_money: 750L,
+		type: "ftbmoney:money"
+	}],
+	loot_crate: {
+		string_id: "_1",
+		color: 16777215,
+		drops: {
+			boss: 0,
+			passive: 0,
+			monster: 0
+		}
+	}
+}

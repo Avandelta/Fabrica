@@ -1,0 +1,29 @@
+{
+	title: "Переносное хранилище IV",
+	x: -8.5d,
+	y: 4.5d,
+	dependencies: [
+		"4c0fb789"
+	],
+	tasks: [{
+		uid: "8ef18251",
+		type: "item",
+		items: [{
+			id: "ironbackpacks:backpack",
+			tag: {
+				packInfo: {
+					upgrade: [],
+					type: "ironbackpacks:diamond",
+					spec: "STORAGE"
+				}
+			}
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "0b5948d9",
+		type: "random",
+		title: "Случайная награда #1",
+		table: 1
+	}]
+}

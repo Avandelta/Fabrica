@@ -3,6 +3,10 @@
 	icon: "ceramics:unfired_clay",
 	x: 3.5d,
 	y: -1.5d,
+	description: "Приспособления из необожённой глины",
+	text: [
+		"Некоторые предметы, сделанные из глины, вполне могут стать практичной заменой металлических аналогов, включая броню."
+	],
 	dependencies: [
 		"cdbb93f7",
 		"7e3da849"
@@ -20,5 +24,11 @@
 		items: [{
 			item: "ceramics:unfired_clay"
 		}]
+	}],
+	rewards: [{
+		uid: "e9dab64b",
+		type: "random",
+		title: "Случайная награда #1",
+		table: 0
 	}]
 }

@@ -1,0 +1,17 @@
+{
+	title: "Воздушный экстрактор",
+	x: 13.0d,
+	y: -7.5d,
+	description: "Концентрация ресурсов из воздуха",
+	dependencies: [
+		"65940199",
+		"53451d68"
+	],
+	tasks: [{
+		uid: "93aff8bd",
+		type: "item",
+		items: [{
+			item: "factorytech:deepdrill"
+		}]
+	}]
+}
