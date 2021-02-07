@@ -1,10 +1,7 @@
-import crafttweaker.player.IPlayer;
 import mods.zenstages.ZenStager;
 import mods.zenstages.Stage;
 
 print("Initializing the stage with ID: 00 [Getting Started]!");
-
-if(player.hasGameStage('getting_started') == false) { player.addGameStage('getting_started'); }
 
 mods.ItemStages.stageModItems('getting_started', 'minecraft');
 mods.ItemStages.stageModItems('getting_started', 'quark');
@@ -27,8 +24,18 @@ mods.ItemStages.stageModItems('getting_started', 'chisel');
 mods.ItemStages.stageModItems('getting_started', 'silentgems');
 mods.ItemStages.stageModItems('getting_started', 'storagedrawers');
 mods.ItemStages.stageModItems('getting_started', 'tcomplement');
+mods.ItemStages.stageModItems('getting_started', 'openblocks');
+mods.ItemStages.stageModItems('getting_started', 'danknull');
+mods.ItemStages.stageModItems('getting_started', 'extrautils2');
 
 mods.ItemStages.removeItemStage(<quark:pickarang>);
 mods.ItemStages.removeItemStage(<vt:pad>);
+
+var mechanization = ZenStager.initStage("mechanization");
+var industrialization = ZenStager.initStage("industrialization");
+var electrification = ZenStager.initStage("electrification");
+var automatization = ZenStager.initStage("automatization");
+var mechanization = ZenStager.initStage("mechanization");
+
 
 var debugStage = ZenStager.initStage("debugStage");
