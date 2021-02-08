@@ -1,7 +1,0 @@
-{
-	title: "Альтернативная наука",
-	icon: "draconicevolution:dislocator_receptacle",
-	always_invisible: false,
-	group: 0,
-	default_quest_shape: ""
-}
