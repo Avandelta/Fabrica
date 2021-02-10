@@ -1,0 +1,32 @@
+{
+	title: "Рабочее место",
+	icon: "minecraft:crafting_table",
+	x: 1.5d,
+	y: -5.5d,
+	dependencies: [
+		"e4be1d8f"
+	],
+	tasks: [{
+		uid: "e048c7b5",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "workbench",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any workbench"
+				}
+			}
+		}]
+	}],
+	rewards: [{
+		uid: "addfa642",
+		type: "ftbmoney:money",
+		ftb_money: 125L
+	}]
+}

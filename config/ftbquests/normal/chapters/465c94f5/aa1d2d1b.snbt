@@ -1,0 +1,15 @@
+{
+	title: "Дробитель",
+	x: 9.0d,
+	y: -5.5d,
+	dependencies: [
+		"d7410e71"
+	],
+	tasks: [{
+		uid: "12cf0a9a",
+		type: "item",
+		items: [{
+			item: "factorytech:oredrill"
+		}]
+	}]
+}

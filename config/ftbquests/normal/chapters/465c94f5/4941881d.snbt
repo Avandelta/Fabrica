@@ -1,0 +1,16 @@
+{
+	title: "Закалка железа",
+	x: 17.0d,
+	y: -5.5d,
+	dependencies: [
+		"f0261374",
+		"1f6989af"
+	],
+	tasks: [{
+		uid: "55a95e56",
+		type: "item",
+		items: [{
+			item: "factorytech:temperer"
+		}]
+	}]
+}

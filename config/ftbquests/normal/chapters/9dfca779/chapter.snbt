@@ -1,0 +1,7 @@
+{
+	title: "Машинизация",
+	icon: "enderio:block_combustion_generator",
+	always_invisible: false,
+	group: 0,
+	default_quest_shape: ""
+}

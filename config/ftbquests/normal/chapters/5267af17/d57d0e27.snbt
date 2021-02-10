@@ -1,0 +1,26 @@
+{
+	title: "Улучшенный сундук I",
+	x: -2.5d,
+	y: 2.5d,
+	dependencies: [
+		"cc279306"
+	],
+	tasks: [{
+		uid: "f5f45823",
+		type: "item",
+		items: [{
+			item: "ironchest:iron_chest"
+		}]
+	}],
+	rewards: [{
+		uid: "94c47efe",
+		type: "item",
+		item: "minecraft:iron_ingot",
+		count: 4
+	},
+	{
+		uid: "75f2cb54",
+		type: "ftbmoney:money",
+		ftb_money: 175L
+	}]
+}

@@ -1,0 +1,15 @@
+{
+	title: "Механическая катушка Теслы",
+	x: 9.0d,
+	y: -9.5d,
+	dependencies: [
+		"56b8dcc6"
+	],
+	tasks: [{
+		uid: "5483e720",
+		type: "item",
+		items: [{
+			item: "factorytech:teslacoil"
+		}]
+	}]
+}

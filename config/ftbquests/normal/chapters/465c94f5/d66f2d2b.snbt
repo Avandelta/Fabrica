@@ -1,0 +1,15 @@
+{
+	title: "Создание магнитов",
+	x: 11.0d,
+	y: -3.5d,
+	dependencies: [
+		"d7410e71"
+	],
+	tasks: [{
+		uid: "64c3b4a5",
+		type: "item",
+		items: [{
+			item: "factorytech:magnetizer"
+		}]
+	}]
+}

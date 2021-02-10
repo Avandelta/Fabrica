@@ -1,0 +1,21 @@
+{
+	title: "Полировка",
+	x: 7.5d,
+	y: -7.5d,
+	dependencies: [
+		"63a11367"
+	],
+	tasks: [{
+		uid: "51a38ee3",
+		type: "item",
+		items: [{
+			item: "sgextraparts:polisher"
+		}]
+	}],
+	rewards: [{
+		uid: "e02832c1",
+		type: "random",
+		title: "Случайная награда #1",
+		table: 1
+	}]
+}

@@ -1,0 +1,29 @@
+{
+	title: "Переносное хранилище II",
+	x: -4.5d,
+	y: 2.5d,
+	dependencies: [
+		"578af161"
+	],
+	tasks: [{
+		uid: "eaaa960e",
+		type: "item",
+		items: [{
+			id: "ironbackpacks:backpack",
+			tag: {
+				packInfo: {
+					upgrade: [],
+					type: "ironbackpacks:iron",
+					spec: "STORAGE"
+				}
+			}
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "5ab85267",
+		type: "random",
+		title: "Случайная награда #0",
+		table: 0
+	}]
+}

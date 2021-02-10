@@ -1,0 +1,22 @@
+{
+	title: "Каменная лихорадка",
+	icon: "minecraft:cobblestone",
+	x: 5.5d,
+	y: -3.5d,
+	dependencies: [
+		"617b8e32"
+	],
+	tasks: [{
+		uid: "e25ef04a",
+		type: "item",
+		items: [{
+			item: "minecraft:cobblestone"
+		}],
+		count: 32L
+	}],
+	rewards: [{
+		uid: "c7d18777",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

@@ -1,0 +1,27 @@
+{
+	title: "Уплотнитель хранилища",
+	icon: "storagedrawers:compdrawers",
+	x: -6.5d,
+	y: -1.5d,
+	dependencies: [
+		"c306f5ef"
+	],
+	tasks: [{
+		uid: "3f476955",
+		type: "item",
+		items: [{
+			item: "storagedrawers:compdrawers"
+		}]
+	}],
+	rewards: [{
+		uid: "017141f2",
+		type: "ftbmoney:money",
+		ftb_money: 125L
+	},
+	{
+		uid: "9af1921a",
+		type: "random",
+		title: "Случайная награда #1",
+		table: 1
+	}]
+}
