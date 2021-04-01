@@ -27,6 +27,7 @@ mods.ItemStages.stageModItems('getting_started', 'tcomplement');
 mods.ItemStages.stageModItems('getting_started', 'openblocks');
 mods.ItemStages.stageModItems('getting_started', 'danknull');
 mods.ItemStages.stageModItems('getting_started', 'extrautils2');
+mods.ItemStages.stageModItems('getting_started', 'futuremc');
 
 mods.ItemStages.removeItemStage(<quark:pickarang>);
 mods.ItemStages.removeItemStage(<vt:pad>);
