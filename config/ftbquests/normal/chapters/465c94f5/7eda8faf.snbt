@@ -1,0 +1,14 @@
+{
+	x: 9.0d,
+	y: -18.5d,
+	dependencies: [
+		"9c17dbd2"
+	],
+	tasks: [{
+		uid: "dff1e7e3",
+		type: "item",
+		items: [{
+			item: "pneumaticcraft:air_compressor"
+		}]
+	}]
+}

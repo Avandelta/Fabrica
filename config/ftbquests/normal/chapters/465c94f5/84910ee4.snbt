@@ -1,0 +1,28 @@
+{
+	title: "Зарядник",
+	icon: "actuallyadditions:block_empowerer",
+	x: 17.0d,
+	y: -12.5d,
+	description: "Использование новой энергии",
+	text: [
+		"Зарядник в своей работе требует особый вид энергии и необходимые для постановки предметов выставочные стенды."
+	],
+	dependencies: [
+		"3e68b06a"
+	],
+	tasks: [{
+		uid: "caf15e85",
+		type: "item",
+		items: [{
+			item: "actuallyadditions:block_empowerer"
+		}]
+	},
+	{
+		uid: "9b79912a",
+		type: "item",
+		items: [{
+			item: "actuallyadditions:block_display_stand"
+		}],
+		count: 4L
+	}]
+}

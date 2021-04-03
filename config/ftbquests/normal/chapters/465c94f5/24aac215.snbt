@@ -1,0 +1,19 @@
+{
+	x: 19.0d,
+	y: -12.5d,
+	dependencies: [
+		"84910ee4",
+		"a15aa235"
+	],
+	tasks: [{
+		uid: "43382213",
+		type: "item",
+		items: [{
+			id: "actuallyadditions:item_tele_staff",
+			tag: {
+				Energy: 0
+			}
+		}],
+		ignore_nbt: 1b
+	}]
+}

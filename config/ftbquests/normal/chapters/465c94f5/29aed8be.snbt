@@ -1,0 +1,14 @@
+{
+	x: 7.0d,
+	y: -20.5d,
+	dependencies: [
+		"25ee325b"
+	],
+	tasks: [{
+		uid: "27c3a9a0",
+		type: "item",
+		items: [{
+			item: "pneumaticcraft:pressure_chamber_interface"
+		}]
+	}]
+}

@@ -1,0 +1,22 @@
+{
+	x: 9.0d,
+	y: -20.5d,
+	dependencies: [
+		"7eda8faf"
+	],
+	tasks: [{
+		uid: "7ea0a884",
+		type: "item",
+		items: [{
+			item: "pneumaticcraft:pressure_chamber_wall"
+		}],
+		count: 30L
+	},
+	{
+		uid: "ac3e96ee",
+		type: "item",
+		items: [{
+			item: "pneumaticcraft:pressure_chamber_valve"
+		}]
+	}]
+}

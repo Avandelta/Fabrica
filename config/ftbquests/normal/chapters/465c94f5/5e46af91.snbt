@@ -1,0 +1,14 @@
+{
+	x: 13.0d,
+	y: -12.5d,
+	dependencies: [
+		"c7856513"
+	],
+	tasks: [{
+		uid: "a3c1ff9d",
+		type: "item",
+		items: [{
+			item: "pneumaticcraft:electrostatic_compressor"
+		}]
+	}]
+}

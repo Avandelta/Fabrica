@@ -1,0 +1,14 @@
+{
+	x: 21.0d,
+	y: -16.5d,
+	dependencies: [
+		"e53a9af6"
+	],
+	tasks: [{
+		uid: "d3fdcdb7",
+		type: "item",
+		items: [{
+			item: "actuallyadditions:block_coal_generator"
+		}]
+	}]
+}

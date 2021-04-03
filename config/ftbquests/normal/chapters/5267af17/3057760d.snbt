@@ -1,7 +1,7 @@
 {
 	title: "Контроллер хранилища",
 	icon: "storagedrawers:controller",
-	x: -4.5d,
+	x: -2.5d,
 	y: -3.5d,
 	description: "Разумный контроль хранилища",
 	text: [

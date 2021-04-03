@@ -1,0 +1,19 @@
+{
+	x: 21.0d,
+	y: -14.5d,
+	dependencies: [
+		"a15aa235"
+	],
+	tasks: [{
+		uid: "e4680193",
+		type: "item",
+		items: [{
+			id: "actuallyadditions:item_drill",
+			tag: {
+				Energy: 0
+			},
+			Damage: 3s
+		}],
+		ignore_nbt: 1b
+	}]
+}

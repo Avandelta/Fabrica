@@ -1,0 +1,14 @@
+{
+	x: 11.0d,
+	y: -18.5d,
+	dependencies: [
+		"7eda8faf"
+	],
+	tasks: [{
+		uid: "8a04b926",
+		type: "item",
+		items: [{
+			item: "pneumaticcraft:charging_station"
+		}]
+	}]
+}
