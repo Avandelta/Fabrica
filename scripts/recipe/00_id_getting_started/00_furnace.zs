@@ -1,7 +1,7 @@
 print('Initializing the edit of [Getting Started] furnace recipes!');
 
-# Vanilla (default Minecraft)
-furnace.remove(<ore:blockGlass>);
+# Vanilla (default Minecraft) WIP.
+# furnace.remove(<ore:blockGlass>);
 
 # Glazed Terracotta (include in workbench)
 furnace.remove(<minecraft:white_glazed_terracotta>);
